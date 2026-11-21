@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="FiveYears">
+  <rect width="64" height="64" rx="12" fill="#4a2525" />
+  <rect x="13" y="12" width="19" height="40" rx="2" fill="#faf7f0" />
+  <rect x="34" y="12" width="19" height="40" rx="2" fill="#f5efe4" />
+  <path d="M32 12v40" stroke="#c9a86d" stroke-width="1.5" />
+  <path d="M18 21h9M18 27h9M18 33h7M39 21h9M39 27h7M39 33h9" stroke="#b4a793" stroke-width="1.4" stroke-linecap="round" />
+</svg>
